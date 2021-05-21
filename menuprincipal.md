@@ -57,10 +57,7 @@ Componentes (Ética e conduta, mapeamento de processos, gestão de riscos, contr
 
 Passo a passo para a implantação.
 
-### **13. Relatório final**
-(Conteúdo prévio desenvolvido pela CGE-MG)
-
-Recomendações.
+[**13. Relatório final**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/relatorio.md)
 
 ### **14. Compromisso dos órgãos e entidades**
 
