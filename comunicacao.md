@@ -1,10 +1,10 @@
 Para que o Plano de Integridade seja mais aderente ao órgão, sugere-se que o documento seja apresentado a todos os colaboradores da instituição – servidores, comissionados, terceirizados e demais partes interessadas. 
 
-Recomenda-se que o documento seja divulgado na internet e com alguma ferramenta que permita o registro de comentários e sugestões, que poderão ser utilizados para posterior monitoramento e aprimoramento do Plano. 
+A **divulgação do plano de integridade na internet** e com alguma ferramenta que permita o registro de comentários e sugestões, que poderão ser utilizados para posterior monitoramento e aprimoramento do Plano. 
 
-A realização de eventos para disseminação do Plano de ações de integridade também é fundamental para fomento e sensibilização dos stakeholders.
+A **realização de eventos** para disseminação do Plano de ações de integridade também é fundamental para fomento e sensibilização dos stakeholders.
 
-A comunicação é importante para disseminação e conscientização do público alvo quanto às ações do plano de integridade, isso permite que a sua implementação seja mais fluida.
+A **comunicação** é importante para disseminação e conscientização do público alvo quanto às ações do plano de integridade, isso permite que a sua implementação seja mais fluida.
 
 Campanhas de comunicação são um excelente mecanismo de divulgação e disseminação da temática. Em 2019, o Governo de Minas Gerais, por meio da Controladoria-Geral de Minas Gerais, realizou uma extensa Campanha de Integridade nas áreas sociais da Cidade Administrativa de Minas Gerais e nas dependências dos órgãos públicos mineiros, com o objetivo de trazer reflexões cotidianas sobre integridade, ética e transparência, tanto nos níveis individual quanto institucional.
 
