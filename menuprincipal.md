@@ -12,6 +12,7 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 [**3. Alternativas para a implantação do programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelos.md)
 
+
 [**4. O papel do Controle Interno**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/controleinterno.md)
 
 
@@ -24,9 +25,8 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 [**7. Apoio consultivo**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/apoio.md)
 
 
-### **8. Adesão e compromisso dos órgãos e entidades**
+[**8. Adesão e compromisso dos órgãos e entidades**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/adesao.md)
 
-Como garantir a adesão e compromisso dos órgãos e entidades na formulação e implementação dos programas de integridadE?
 
 ### **9. Unidades de Compliance**
 
