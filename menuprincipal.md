@@ -4,7 +4,7 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 ## Sumário
 
-### **1. Conscientização do gestor público**
+[**1. Conscientização do gestor público**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/conscientizacao.md)
 
 Quais os argumentos para que os prefeitos e governandores entendam a importância do Programa de Integridade no contexto da boa administração pública?
 
