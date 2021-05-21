@@ -41,15 +41,13 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 [**13. Relatório final**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/relatorio.md)
 
+
 [**14. Compromisso dos órgãos e entidades**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/compromisso.md)
 
 
-### **15. Monitoramento do(s) Programa(s) de Integridade**
+[**15. Monitoramento do(s) Programa(s) de Integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/monitoramento)
 
-Como pode ser feito o monitoramento da implementação do programa de integridade.
 
-### **16. Fomento e desenvolvimento do Programa**
-
-Como um programa de integridade pode ser fomentado e desenvolvido?
+[**16. Fomento e desenvolvimento do Programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/fomento)
 
 [**17. Comunicação e disseminação**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/comunicacao.md)
