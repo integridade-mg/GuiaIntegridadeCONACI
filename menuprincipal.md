@@ -48,9 +48,6 @@ Estruturação da rede de controle interno.
 Programas de treinamento.
 
 [**11. Modelagem do programa de integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelagem.md)
-(Conteúdo prévio desenvolvido pela CGE-MG)
-
-Componentes (Ética e conduta, mapeamento de processos, gestão de riscos, controles internos e compliance).
 
 ### **12. Boas práticas para a implantação do Programa de Integridade**
 (Conteúdo prévio desenvolvido pela CGE-MG)
