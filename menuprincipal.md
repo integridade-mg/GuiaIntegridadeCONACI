@@ -77,4 +77,4 @@ Como um programa de integridade pode ser fomentado e desenvolvido?
 ### **17. Comunicação e disseminação**
 (Conteúdo prévio desenvolvido pela CGE-MG)
 
-Estratégias para comunicar e disseminar o Programa de Integridade à sociedade e aos stakeholders diretos e indiretos.
+[Estratégias para comunicar e disseminar o Programa de Integridade à sociedade e aos stakeholders diretos e indiretos] (https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/comunicacao.md)
