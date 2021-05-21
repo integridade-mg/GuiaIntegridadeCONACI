@@ -12,9 +12,7 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 [**3. Alternativas para a implantação do programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelos.md)
 
-### **4. O papel do Controle Interno**
-
-Aspectos gerais sobre o papel do controle interno na formulação, execução, monitoramento e avaliação dos programas de integridade.
+[**4. O papel do Controle Interno**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/controleinterno.md)
 
 ### **5. Alianças estratégicas**
 
