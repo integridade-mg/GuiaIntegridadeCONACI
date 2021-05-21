@@ -74,5 +74,5 @@ Como pode ser feito o monitoramento da implementação do programa de integridad
 
 Como um programa de integridade pode ser fomentado e desenvolvido?
 
-[### **17. Comunicação e disseminação**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/comunicacao.md)
+[**17. Comunicação e disseminação**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/comunicacao.md)
 (Conteúdo prévio desenvolvido pela CGE-MG)
