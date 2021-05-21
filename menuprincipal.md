@@ -2,11 +2,12 @@
 
 ## Sumário
 
-### **1. Conscientização do gestor público e aspectos gerais dos Programas de Integridade**
+### **1. Conscientização do gestor público**
 
-[1.1. Quais argumentos utilizar para conscientização do gestor público?]
+Quais os argumentos para que os prefeitos e governandores entendam a importância do Programa de Integridade no contexto da boa administração pública?
 
-[1.2. O que é um programa de integridade?]
+### **2. Conscientização do gestor público**
+
 
 [1.3. A formulação de um programa de integridade na Administração Pública é obrigatória?]
 
