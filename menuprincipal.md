@@ -1,5 +1,7 @@
 # **Programas de Integridade nos Governos Subnacionais Brasileiros: guia referencial (projeto em desenvolvimento)** #
 
+Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
+
 ## Sumário
 
 ### **1. Conscientização do gestor público**
