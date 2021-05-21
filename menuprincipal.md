@@ -15,7 +15,7 @@ Quais os argumentos para que os prefeitos e governandores entendam a importânci
 O que é um Programa de Integridade (conceitos)?
 
 
-### **3. Alternativas para a implantação do programa**
+[**3. Alternativas para a implantação do programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelos.md)
 
 Adesão optativa x adesão obrigatória
 
