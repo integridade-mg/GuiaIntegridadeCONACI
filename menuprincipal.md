@@ -28,9 +28,8 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 [**8. Adesão e compromisso dos órgãos e entidades**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/adesao.md)
 
 
-### **9. Unidades de Compliance**
+[**9. Unidades de Compliance**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/compliance)
 
-Estruturação da rede de controle interno.
 
 ### **10. Capacitação e desenvolvimento**
 
