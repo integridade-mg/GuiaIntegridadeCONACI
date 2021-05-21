@@ -21,9 +21,8 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 [**6. Base legal**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/legal.md)
 
 
-### **7. Apoio consultivo**
+[**7. Apoio consultivo**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/apoio.md)
 
-Contratação de serviço especializado de consultoria  X  Equipe consultiva formada pelos quadros existentes.
 
 ### **8. Adesão e compromisso dos órgãos e entidades**
 
