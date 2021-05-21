@@ -41,9 +41,8 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 [**13. Relatório final**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/relatorio.md)
 
-### **14. Compromisso dos órgãos e entidades**
+[**14. Compromisso dos órgãos e entidades**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/compromisso.md)
 
-Planos de ação.
 
 ### **15. Monitoramento do(s) Programa(s) de Integridade**
 
