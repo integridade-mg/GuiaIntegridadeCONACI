@@ -12,8 +12,6 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 [**3. Alternativas para a implantação do programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelos.md)
 
-Adesão optativa x adesão obrigatória
-
 ### **4. O papel do Controle Interno**
 
 Aspectos gerais sobre o papel do controle interno na formulação, execução, monitoramento e avaliação dos programas de integridade.
