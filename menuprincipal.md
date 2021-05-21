@@ -31,9 +31,8 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 [**9. Unidades de Compliance**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/compliance)
 
 
-### **10. Capacitação e desenvolvimento**
+[**10. Capacitação e desenvolvimento**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/capacita.md)
 
-Programas de treinamento.
 
 [**11. Modelagem do programa de integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelagem.md)
 
