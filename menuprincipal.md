@@ -8,11 +8,7 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 Quais os argumentos para que os prefeitos e governandores entendam a importância do Programa de Integridade no contexto da boa administração pública?
 
-
-### **2. Programa de Integridade**
-(Conteúdo prévio desenvolvido pela CGE-MG)
-
-O que é um Programa de Integridade (conceitos)?
+[**2. Programa de Integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/conceito.md)
 
 
 [**3. Alternativas para a implantação do programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelos.md)
