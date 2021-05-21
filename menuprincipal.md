@@ -38,7 +38,6 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 [**12. Boas práticas para a implantação do Programa de Integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/boaspraticas.md)
 
-Passo a passo para a implantação.
 
 [**13. Relatório final**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/relatorio.md)
 
