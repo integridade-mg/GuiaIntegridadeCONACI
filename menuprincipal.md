@@ -14,12 +14,12 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 
 [**4. O papel do Controle Interno**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/controleinterno.md)
 
+
 [**5. Alianças estratégicas**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/alianca.md)
 
 
-### **6. Base legal**
+[**6. Base legal**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/legal.md)
 
-Modelos.
 
 ### **7. Apoio consultivo**
 
