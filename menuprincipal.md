@@ -45,7 +45,7 @@ Programas de treinamento.
 
 [**11. Modelagem do programa de integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/modelagem.md)
 
-### **12. Boas práticas para a implantação do Programa de Integridade**
+[**12. Boas práticas para a implantação do Programa de Integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/boaspraticas.md)
 
 Passo a passo para a implantação.
 
