@@ -20,6 +20,6 @@ Para a OCDE, Integridade pública é definida como
 **Referências para consulta**
 
 https://pmpi.mg.gov.br/
-https://cge.mg.gov.br/phocadownload/Integridade/Guia%20de%20Integridade%20Publica_Volume%20I.pdf
+https://www.pmpi.mg.gov.br/materiais-instrucionais/category/tag?tagid=17
 https://www.gov.br/cgu/Publicacoes/etica-e-integridade/arquivos/guia-de-integridade-publica.pdf
 http://www.oecd.org/gov/ethics/recommendation-public-integrity/
