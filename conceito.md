@@ -1,4 +1,4 @@
-#O que é integridade pública?#
+**O que é integridade pública?**
 
 O termo Integridade, em seu sentido literal, caracteriza um indivíduo ou organização que age com dignidade e honestidade. A palavra é sinônimo de uma qualidade ou estado de algo que é íntegro, completo e inteiro, que não sofreu influências e/ou impactos em sua estrutura original e que não se desviou dos seus objetivos essenciais.
 
@@ -12,13 +12,13 @@ Para a OCDE, Integridade pública é definida como
 
 *o alinhamento consistente e a adesão a valores, princípios e normas éticos pactuados socialmente, a fim de sustentar e priorizar, no exercício da função, o interesse público em detrimento dos interesses privados. É um dos principais pilares das estruturas políticas, econômicas e sociais e, portanto, é essencial para o bem estar econômico e social e a prosperidade dos indivíduos e das sociedades como um todo (OCDE Recommendation of the Council on Public Integrity, 2017, p. 3).*
 
-#O que são os Programas de Integridade?#
+**#O que são programas de integridade?**
 
 (desenvolver)
 
 **Referências para consulta**
 
 https://pmpi.mg.gov.br/
-https://cge.mg.gov.br/phocadownload/Integridade/Guia%20de%20Integridade%20Publica_Volume%20I.pdf
+https://www.pmpi.mg.gov.br/materiais-instrucionais/category/tag?tagid=17
 https://www.gov.br/cgu/Publicacoes/etica-e-integridade/arquivos/guia-de-integridade-publica.pdf
 http://www.oecd.org/gov/ethics/recommendation-public-integrity/
