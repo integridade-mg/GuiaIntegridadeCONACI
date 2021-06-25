@@ -1,6 +1,6 @@
 **O papel do Controle Interno**
 
-A implantação de um programa de integridade nos órgãos da administração pública requer liderança no fomento do combate à fraude e à corrupção, através da atuação direta da Controladoria – Geral, que dispõe de conhecimento de temas relevantes, tais como Ouvidoria, Auditoria, Corregedoria e sistema de controle interno.
+A implantação de um programa de integridade nos órgãos da administração pública requer liderança no fomento do combate à fraude e à corrupção, através da atuação direta da Controladoria–Geral, que dispõe de conhecimento de temas relevantes, tais como Ouvidoria, Auditoria, Corregedoria e sistema de controle interno.
 
 Para a efetividade do programa são esperados os seguintes papeis da Controladoria – Geral:
 
