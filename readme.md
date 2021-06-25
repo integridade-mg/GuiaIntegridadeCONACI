@@ -28,7 +28,7 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 [**8. Adesão e compromisso dos órgãos e entidades**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/adesao.md)
 
 
-[**9. Unidades de Compliance**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/compliance)
+[**9. Unidades de Compliance**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/compliance.md)
 
 
 [**10. Capacitação e desenvolvimento**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/capacita.md)
@@ -45,10 +45,10 @@ Guia referencial produzido de forma colaborativa entre a CGE-MG e a CGE-MS.
 [**14. Compromisso dos órgãos e entidades**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/compromisso.md)
 
 
-[**15. Monitoramento do(s) Programa(s) de Integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/monitoramento)
+[**15. Monitoramento do(s) Programa(s) de Integridade**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/monitoramento.md)
 
 
-[**16. Fomento e desenvolvimento do Programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/fomento)
+[**16. Fomento e desenvolvimento do Programa**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/fomento.md)
 
 
 [**17. Comunicação e disseminação**](https://github.com/integridade-mg/GuiaIntegridadeCONACI/blob/main/comunicacao.md)
