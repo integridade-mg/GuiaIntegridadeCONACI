@@ -8,6 +8,6 @@ Todos os degraus da escada de implantação e gestão do PI necessitam ser regul
 
 <i> Nota 1- O Estado de Minas Gerais, através do Decreto Nº 47.185, de 12 de Maio de 2017, legislou sobre o Plano Mineiro de Promoção da Integridade. </i>
 
-<i>  2- O Estado de Mato Grosso do Sul, através do Decreto Nº 15.222, de 07 de Maio de 2019, legislou sobre o PMSI – Programa MS de Integridade. </i>
+<i> Nota 2- O Estado de Mato Grosso do Sul, através do Decreto Nº 15.222, de 07 de Maio de 2019, legislou sobre o PMSI – Programa MS de Integridade. </i>
 
-<i>  3- O Estado de Mato Grosso do Sul, através da Resolução Conjunta entre a Controladoria – Geral do Estado e a Secretaria de Estado e Gestão Estratégica, Nº 1, de 8 de Novembro de 2019, orientou sobre o PMSI – Programa MS de Integridade, instruindo sobre os padrões referenciais dos processos de governança, gerenciamento de riscos, controles internos e ambiente ético dos órgãos e das entidades da Administração Pública. </i>
+<i> Nota 3- O Estado de Mato Grosso do Sul, através da Resolução Conjunta entre a Controladoria – Geral do Estado e a Secretaria de Estado e Gestão Estratégica, Nº 1, de 8 de Novembro de 2019, orientou sobre o PMSI – Programa MS de Integridade, instruindo sobre os padrões referenciais dos processos de governança, gerenciamento de riscos, controles internos e ambiente ético dos órgãos e das entidades da Administração Pública. </i>
