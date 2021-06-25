@@ -1,6 +1,5 @@
 **O que é integridade pública?**
 
-
 O termo Integridade, em seu sentido literal, caracteriza um indivíduo ou organização que age com dignidade e honestidade. A palavra é sinônimo de uma qualidade ou estado de algo que é íntegro, completo e inteiro, que não sofreu influências e/ou impactos em sua estrutura original e que não se desviou dos seus objetivos essenciais.
 
 Integridade pública pode ser conceituada como o conjunto de ações a serem desenvolvidas pelos órgãos e entidades com o intuito de promover a cultura da ética, integridade, transparência, accountability e o fortalecimento e aprimoramento da estrutura de governança, da gestão de riscos, da aplicação efetiva de códigos de conduta ética e da adoção de medidas de prevenção de atos ilícitos. 
