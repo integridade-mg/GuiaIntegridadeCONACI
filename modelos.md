@@ -18,7 +18,7 @@ Nesta situação, os órgãos e entidades aderem ao programa por livre e espont�
 
 ***Alternativa híbrida***
 
-A CGE-MG utiliza um modelo híbrido de adesão: apesar da adesão ao Plano Mineiro de Promoção de Integridade ser obrigatória, conforme o Decreto Nº 47.185, de 12 de Maio de 2017, não há um prazo estabelecido para o desenvolvimento dos planos de integridade específicos de cada órgão ou entidade. Desta forma, cada órgão ou entidade da administração pública do Poder Executivo será responsável pela criação e divulgação de planos de integridade específicos, contemplando ações voltadas para os agentes públicos, os cidadãos, as organizações da sociedade civil e as empresas localizadas no Estado.
+A CGE-MG utiliza um modelo híbrido de adesão: apesar da adesão ao Plano Mineiro de Promoção de Integridade ser obrigatória, conforme o Decreto Nº 47.185, de 12 de Maio de 2017, não há um prazo estabelecido para o desenvolvimento dos planos de integridade específicos de cada órgão ou entidade. Desta forma, cada órgão ou entidade da administração pública do Poder Executivo será responsável pela criação e divulgação de planos de integridade específicos, a partir de diretrizes e orientações específicas da Controladoria Geral do Estado, contemplando ações voltadas para os agentes públicos, os cidadãos, as organizações da sociedade civil e as empresas localizadas no Estado.
 
 ***Referências para consulta***
 
